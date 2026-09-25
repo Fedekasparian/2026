@@ -1,0 +1,256 @@
+pais,codigo_pais,duracion_primaria_anios
+Guam,GUM,8
+Ireland,IRL,8
+Antigua and Barbuda,ATG,7
+Australia,AUS,7
+Bhutan,BTN,7
+Botswana,BWA,7
+Dominica,DMA,7
+Denmark,DNK,7
+Grenada,GRD,7
+Iceland,ISL,7
+St. Kitts and Nevis,KNA,7
+St. Lucia,LCA,7
+Lesotho,LSO,7
+Maldives,MDV,7
+Mozambique,MOZ,7
+Namibia,NAM,7
+Norway,NOR,7
+Eswatini,SWZ,7
+Trinidad and Tobago,TTO,7
+Tanzania,TZA,7
+Uganda,UGA,7
+St. Vincent and the Grenadines,VCT,7
+British Virgin Islands,VGB,7
+South Africa,ZAF,7
+Zambia,ZMB,7
+Zimbabwe,ZWE,7
+Aruba,ABW,6
+Africa Eastern and Southern,AFE,6
+Africa Western and Central,AFW,6
+Angola,AGO,6
+Andorra,AND,6
+Arab World,ARB,6
+Argentina,ARG,6
+American Samoa,ASM,6
+Burundi,BDI,6
+Belgium,BEL,6
+Benin,BEN,6
+Burkina Faso,BFA,6
+Bahrain,BHR,6
+"Bahamas, The",BHS,6
+Belize,BLZ,6
+Bermuda,BMU,6
+Bolivia,BOL,6
+Barbados,BRB,6
+Brunei Darussalam,BRN,6
+Central African Republic,CAF,6
+Canada,CAN,6
+Switzerland,CHE,6
+Chile,CHL,6
+China,CHN,6
+Cote d'Ivoire,CIV,6
+Cameroon,CMR,6
+"Congo, Dem. Rep.",COD,6
+"Congo, Rep.",COG,6
+Comoros,COM,6
+Cabo Verde,CPV,6
+Costa Rica,CRI,6
+Cuba,CUB,6
+Curacao,CUW,6
+Cayman Islands,CYM,6
+Cyprus,CYP,6
+Dominican Republic,DOM,6
+East Asia & Pacific (excluding high income),EAP,6
+Early-demographic dividend,EAR,6
+East Asia & Pacific,EAS,6
+Ecuador,ECU,6
+"Egypt, Arab Rep.",EGY,6
+Euro area,EMU,6
+Spain,ESP,6
+Estonia,EST,6
+Ethiopia,ETH,6
+European Union,EUU,6
+Fragile and conflict affected situations,FCS,6
+Finland,FIN,6
+Fiji,FJI,6
+"Micronesia, Fed. Sts.",FSM,6
+United Kingdom,GBR,6
+Georgia,GEO,6
+Ghana,GHA,6
+Gibraltar,GIB,6
+Guinea,GIN,6
+"Gambia, The",GMB,6
+Guinea-Bissau,GNB,6
+Equatorial Guinea,GNQ,6
+Greece,GRC,6
+Guatemala,GTM,6
+Guyana,GUY,6
+High income,HIC,6
+"Hong Kong SAR, China",HKG,6
+Honduras,HND,6
+Heavily indebted poor countries (HIPC),HPC,6
+Haiti,HTI,6
+IBRD only,IBD,6
+IDA & IBRD total,IBT,6
+IDA total,IDA,6
+IDA blend,IDB,6
+Indonesia,IDN,6
+IDA only,IDX,6
+"Iran, Islamic Rep.",IRN,6
+Iraq,IRQ,6
+Israel,ISR,6
+Jamaica,JAM,6
+Jordan,JOR,6
+Japan,JPN,6
+Kenya,KEN,6
+Cambodia,KHM,6
+Kiribati,KIR,6
+"Korea, Rep.",KOR,6
+Latin America & Caribbean (excluding high income),LAC,6
+Lebanon,LBN,6
+Liberia,LBR,6
+Libya,LBY,6
+Latin America & Caribbean,LCN,6
+Least developed countries: UN classification,LDC,6
+Low income,LIC,6
+Lower middle income,LMC,6
+Low & middle income,LMY,6
+Luxembourg,LUX,6
+Latvia,LVA,6
+"Macao SAR, China",MAC,6
+Morocco,MAR,6
+Middle East & North Africa,MEA,6
+Mexico,MEX,6
+Marshall Islands,MHL,6
+Middle income,MIC,6
+Mali,MLI,6
+Malta,MLT,6
+Middle East & North Africa (excluding high income),MNA,6
+Mauritania,MRT,6
+Mauritius,MUS,6
+Malawi,MWI,6
+Malaysia,MYS,6
+North America,NAC,6
+Niger,NER,6
+Nigeria,NGA,6
+Nicaragua,NIC,6
+Netherlands,NLD,6
+Nauru,NRU,6
+New Zealand,NZL,6
+OECD members,OED,6
+Other small states,OSS,6
+Panama,PAN,6
+Peru,PER,6
+Philippines,PHL,6
+Palau,PLW,6
+Papua New Guinea,PNG,6
+Pre-demographic dividend,PRE,6
+Puerto Rico,PRI,6
+Portugal,PRT,6
+Paraguay,PRY,6
+Post-demographic dividend,PST,6
+Qatar,QAT,6
+Rwanda,RWA,6
+Saudi Arabia,SAU,6
+Sudan,SDN,6
+Senegal,SEN,6
+Singapore,SGP,6
+Solomon Islands,SLB,6
+Sierra Leone,SLE,6
+El Salvador,SLV,6
+Sub-Saharan Africa (excluding high income),SSA,6
+South Sudan,SSD,6
+Sub-Saharan Africa,SSF,6
+Small states,SST,6
+Sao Tome and Principe,STP,6
+Suriname,SUR,6
+Slovenia,SVN,6
+Sweden,SWE,6
+Sint Maarten (Dutch part),SXM,6
+Seychelles,SYC,6
+Syrian Arab Republic,SYR,6
+Turks and Caicos Islands,TCA,6
+Chad,TCD,6
+East Asia & Pacific (IDA & IBRD countries),TEA,6
+Togo,TGO,6
+Thailand,THA,6
+Latin America & the Caribbean (IDA & IBRD countries),TLA,6
+Timor-Leste,TLS,6
+Middle East & North Africa (IDA & IBRD countries),TMN,6
+Tonga,TON,6
+Sub-Saharan Africa (IDA & IBRD countries),TSS,6
+Tunisia,TUN,6
+Tuvalu,TUV,6
+Upper middle income,UMC,6
+Uruguay,URY,6
+United States,USA,6
+"Venezuela, RB",VEN,6
+Virgin Islands (U.S.),VIR,6
+Vanuatu,VUT,6
+World,WLD,6
+Samoa,WSM,6
+"Yemen, Rep.",YEM,6
+Albania,ALB,5
+Bangladesh,BGD,5
+Bosnia and Herzegovina,BIH,5
+Brazil,BRA,5
+Colombia,COL,5
+Czechia,CZE,5
+Djibouti,DJI,5
+Algeria,DZA,5
+Europe & Central Asia,ECS,5
+Eritrea,ERI,5
+France,FRA,5
+Gabon,GAB,5
+India,IND,5
+Italy,ITA,5
+Kuwait,KWT,5
+Lao PDR,LAO,5
+Liechtenstein,LIE,5
+Sri Lanka,LKA,5
+Late-demographic dividend,LTE,5
+Monaco,MCO,5
+Madagascar,MDG,5
+North Macedonia,MKD,5
+Myanmar,MMR,5
+Montenegro,MNE,5
+Mongolia,MNG,5
+New Caledonia,NCL,5
+Nepal,NPL,5
+Pakistan,PAK,5
+"Korea, Dem. People's Rep.",PRK,5
+French Polynesia,PYF,5
+Romania,ROU,5
+South Asia,SAS,5
+San Marino,SMR,5
+South Asia (IDA & IBRD),TSA,5
+Viet Nam,VNM,5
+United Arab Emirates,ARE,4
+Armenia,ARM,4
+Austria,AUT,4
+Azerbaijan,AZE,4
+Bulgaria,BGR,4
+Belarus,BLR,4
+Central Europe and the Baltics,CEB,4
+Germany,DEU,4
+Europe & Central Asia (excluding high income),ECA,4
+Croatia,HRV,4
+Hungary,HUN,4
+Kazakhstan,KAZ,4
+Kyrgyz Republic,KGZ,4
+Lithuania,LTU,4
+Moldova,MDA,4
+Oman,OMN,4
+Poland,POL,4
+West Bank and Gaza,PSE,4
+Russian Federation,RUS,4
+Somalia,SOM,4
+Serbia,SRB,4
+Slovak Republic,SVK,4
+Europe & Central Asia (IDA & IBRD countries),TEC,4
+Tajikistan,TJK,4
+Turkmenistan,TKM,4
+Turkiye,TUR,4
+Ukraine,UKR,4
+Uzbekistan,UZB,4

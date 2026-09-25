@@ -1,0 +1,17 @@
+services:
+  # Hop Web apuntando directo al proyecto de este TP, independiente del
+  # contenedor de clase (dockers/hop). Puerto 8091 para no pisar el 8090
+  # de aquel si los dos estan levantados a la vez.
+  hop-tp02:
+    image: apache/hop-web:2.19.0
+    container_name: hop-tp02
+    ports:
+      - "8091:8080"
+    environment:
+      HOP_PROJECT_NAME: tp02
+      HOP_PROJECT_FOLDER: /project
+      HOP_OPTIONS: "-Xms256m -Xmx1g -Dorg.eclipse.rap.rwt.resourceLocation=/tmp/rwt-resources"
+    mem_limit: 3g
+    volumes:
+      - .:/project
+    restart: unless-stopped
