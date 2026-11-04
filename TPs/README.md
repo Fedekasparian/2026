@@ -11,4 +11,5 @@ A continuación, se presenta el __Cronograma de entrega__, el cual deberá ser r
 | TP02 | - [ETL](https://github.com/bdm-unlu/2026/blob/main/TPs/TP02/TP02%20-%20Procesos%20ETL.pdf) | 25/09/2026 |
 | TP03 | - [Árboles de decisión](https://github.com/bdm-unlu/2026/blob/main/TPs/TP03/TP03%20-%20Arboles%20de%20decision.md) | 09/11/2026 |
 | TP04 | - [Clustering](https://github.com/bdm-unlu/2026/blob/main/TPs/TP04/TP04%20-%20Trabajo%20Pr%C3%A1ctico%20Clustering.pdf)| 18-11-2026 |
+
 Para una correcta incorporación de los conceptos asociados a los temas abordados en esta asignatura resulta muy importante la ejercitación; en función de ello se determina la cantidad de trabajos y carga horaria utilizada para la práctica.
